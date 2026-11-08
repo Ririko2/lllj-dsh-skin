@@ -16,27 +16,23 @@
 
 ## 分割线素材
 
-两套，各自风格统一：
+两套成品，尺寸已对齐（等宽格子、底边对齐）：
 
 | 文件 | 样式 | 尺寸 |
 |---|---|---|
-| `docs/divider.png` | 六人 SD 头像 + 金色圆环 | 870×148 |
-| `docs/divider-cards.png` | 六张 LIVE FOR YOU 相纸卡 | 1201×166 |
+| `docs/divider.png` | 六人 SD 头像 + 金色圆环 | 760×140 |
+| `docs/divider-cards.png` | 六张 LIVE FOR YOU 相纸卡 | 1180×158 |
 
-![头像环](docs/divider.png)
-
-![相纸卡](docs/divider-cards.png)
-
-界面用法：每轮任务结束时，**在完成卡下方**（卡外）显示一条头像环分割线。
+界面里的用法：每轮任务结束时，完成卡下方显示一条头像环分割线。
 
 
 ## 截图
 
 **昼**
 
-![昼 · 对话页](docs/chat-day.png)
-
 ![昼 · 空状态](docs/empty-day.png)
+
+![昼 · 对话页](docs/chat-day.png)
 
 **夜**
 
@@ -44,9 +40,14 @@
 
 ![夜 · 对话页](docs/chat-night.png)
 
-右下角的圆形按钮用于**手动切换昼 / 夜**（默认跟随系统，点击后记住选择）。
+**细节**
 
-![divider](docs/divider.png)
+![消息头与完成卡](docs/detail-card.png)
+
+![消息头](docs/detail-head.png)
+
+右下角圆形按钮用于**手动切换昼 / 夜**（默认跟随系统，点击后记住选择）。
+
 
 ## 特性
 
