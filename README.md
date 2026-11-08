@@ -16,21 +16,19 @@
 
 ## 分割线素材
 
-三种成品，都是透明底 PNG，可直接复用到别处：
+两套，各自风格统一：
 
-| 文件 | 样式 |
-|---|---|
-| `docs/divider.png` | 六人 SD 头像 + 金色圆环 |
-| `docs/divider-stk.png` | 六张 SD 贴纸（持乐器 / 台词卡） |
-| `docs/divider-mix.png` | 头像与贴纸交替 |
+| 文件 | 样式 | 尺寸 |
+|---|---|---|
+| `docs/divider.png` | 六人 SD 头像 + 金色圆环 | 760×150 |
+| `docs/divider-cards.png` | 五张 LIVE FOR YOU 相纸卡 | 696×160 |
 
 ![头像环](docs/divider.png)
 
-![贴纸排](docs/divider-stk.png)
+![相纸卡](docs/divider-cards.png)
 
-![混合](docs/divider-mix.png)
+界面用法：每轮任务结束时，**在完成卡下方**（卡外）显示一条头像环分割线。
 
-界面里的用法：每轮任务结束的完成卡下方会显示一条（用的是贴纸版）。
 
 ## 截图
 
