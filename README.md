@@ -2,7 +2,7 @@
 
 《ライムライト・レモネードジャム》主题皮肤，用于 **DeepSeek Harness Web / Desktop**：昼夜双主题、六位角色按会话分配、消息与卡片全部重绘。
 
-![divider](docs/divider.png)
+![空状态](docs/empty-day.png)
 
 
 ## 特性
@@ -13,7 +13,7 @@
 - **品牌位**：侧栏柠檬徽标 + `Lemonade Factory`；空状态使用游戏原版标题字「今夜，从哪一首开始？」
 - **背景**：1920×1080 剧情 CG，`cover` 平铺 + 分级磨砂，正文可读性优先
 
-![divider](docs/divider.png)
+![空状态](docs/empty-day.png)
 
 ## 安装
 
@@ -41,6 +41,8 @@ dsh plugin --profile web remove dsh-skin-lllj
 
 ![空状态 · 昼](docs/empty-day.png)
 
+![空状态 · 昼（群像）](docs/empty-day-group.png)
+
 ![对话页 · 昼 · 那優花](docs/chat-day.png)
 
 **夜**
@@ -53,25 +55,26 @@ dsh plugin --profile web remove dsh-skin-lllj
 
 ![对话页 · 夜 · 月望](docs/chat-tsukimi.png)
 
+
 ## 分割线素材
 
 四套成品，同一套内等宽格子、底边对齐、透明底。界面里按会话随机选一套，之后固定。
 
-**① 六人头像 + 金环**（760×140）
+| # | 文件 | 说明 | 尺寸 |
+|---|---|---|---|
+| ① | `docs/div-1-faces.png` | 六人 SD 头像 + 金色圆环 | 760×140 |
+| ② | `docs/div-2-cards.png` | LIVE FOR YOU 相纸卡 ×6 | 1180×158 |
+| ③ | `docs/div-3-frame.png` | 彩色框 chibi ×6（Vocal! / Boo! / Miss you …） | 1060×152 |
+| ④ | `docs/div-4-stk.png` | 白色描边贴纸 ×6（Good night / Happy / NICE! …） | 1060×152 |
 
-![头像环](docs/divider.png)
+![① 头像环](docs/div-1-faces.png)
 
-**② LIVE FOR YOU 相纸卡**（1180×158）
+![② 相纸卡](docs/div-2-cards.png)
 
-![相纸卡](docs/divider-cards.png)
+![③ 彩色框](docs/div-3-frame.png)
 
-**③ 彩色框 chibi**（1060×152）
+![④ 白描边](docs/div-4-stk.png)
 
-![彩色框](docs/divider-frame.png)
-
-**④ 白色描边贴纸**（1060×152）
-
-![白描边](docs/divider-stk.png)
 
 ## 角色
 
@@ -84,7 +87,7 @@ dsh plugin --profile web remove dsh-skin-lllj
 | 礫川 美玖 | 贝斯 | 台词最少、一戳就炸 | 1 |
 | 茶園 那優花 | 鼓 / 表姐 | 姐姐口吻、最长句、管男主叫「小雪」 | 1 |
 
-![divider](docs/divider.png)
+![空状态](docs/empty-day.png)
 
 ## 结构
 
