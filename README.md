@@ -16,11 +16,20 @@
 
 ## 安装
 
+GitHub（推荐）：
+
 ```bash
-dsh plugin --profile web add git+https://gitee.com/kurumi0721114514/lllj-dsh_-skin.git
+dsh plugin --profile web add "github:Ririko2/lllj-dsh-skin"
+```
+
+Gitee 镜像：
+
+```bash
+dsh plugin --profile web add "git+https://gitee.com/kurumi0721114514/lllj-dsh_-skin.git"
 ```
 
 安装后重启 `dsh web`（桌面端重启客户端），用新地址打开。
+
 
 ## 卸载
 
