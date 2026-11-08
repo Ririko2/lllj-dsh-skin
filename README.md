@@ -30,25 +30,23 @@
 
 ## 截图
 
-**昼**
+**昼（跟随系统或手动切）**
 
-![昼 · 空状态](docs/empty-day.png)
+![空状态 · 昼](docs/empty-day.png)
 
-![昼 · 对话页](docs/chat-day.png)
+![对话页 · 昼 · 恵凪](docs/chat-ena.png)
 
 **夜**
 
-![夜 · 空状态](docs/empty-night.png)
+![空状态 · 夜](docs/empty-night.png)
 
-![夜 · 对话页](docs/chat-night.png)
+![对话页 · 夜 · 莉々子](docs/chat-ririko.png)
 
-**细节**
+![对话页 · 夜 · 杏珠](docs/chat-anju.png)
 
-![消息头与完成卡](docs/detail-card.png)
+![对话页 · 夜 · 月望](docs/chat-tsukimi.png)
 
-![消息头](docs/detail-head.png)
-
-右下角圆形按钮用于**手动切换昼 / 夜**（默认跟随系统，点击后记住选择）。
+右下角圆形按钮切换昼 / 夜，选择会记住。每个会话的角色与壁纸在**创建时随机分配并固定**，之后不再变化。
 
 
 ## 特性
