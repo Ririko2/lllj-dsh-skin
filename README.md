@@ -20,8 +20,8 @@
 
 | 文件 | 样式 | 尺寸 |
 |---|---|---|
-| `docs/divider.png` | 六人 SD 头像 + 金色圆环 | 760×150 |
-| `docs/divider-cards.png` | 五张 LIVE FOR YOU 相纸卡 | 696×160 |
+| `docs/divider.png` | 六人 SD 头像 + 金色圆环 | 870×148 |
+| `docs/divider-cards.png` | 六张 LIVE FOR YOU 相纸卡 | 1201×166 |
 
 ![头像环](docs/divider.png)
 
