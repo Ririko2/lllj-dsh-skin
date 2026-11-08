@@ -16,14 +16,16 @@
 
 ## 分割线素材
 
-两套成品，尺寸已对齐（等宽格子、底边对齐）：
+四套成品，同一套内等宽格子、底边对齐，透明底：
 
 | 文件 | 样式 | 尺寸 |
 |---|---|---|
 | `docs/divider.png` | 六人 SD 头像 + 金色圆环 | 760×140 |
-| `docs/divider-cards.png` | 六张 LIVE FOR YOU 相纸卡 | 1180×158 |
+| `docs/divider-cards.png` | LIVE FOR YOU 相纸卡（6 张） | 1180×158 |
+| `docs/divider-frame.png` | 彩色框 chibi（Vocal! / Boo! / Miss you …，6 张） | 1060×152 |
+| `docs/divider-stk.png` | 白色描边贴纸（Good night / Happy / NICE! …，6 张） | 1060×152 |
 
-界面里的用法：每轮任务结束时，完成卡下方显示一条头像环分割线。
+界面里的用法：每轮任务结束时，完成卡下方显示一条（当前用头像环版）。
 
 
 ## 截图
