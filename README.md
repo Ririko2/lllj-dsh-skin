@@ -4,11 +4,22 @@
 
 昼 / 夜双主题，六位角色按会话随机分配并固定；消息头像、工具贴纸、完成卡、侧栏品牌位、空状态标题全部重绘。
 
-![恵凪 · 空状态](docs/shot-hero-ena.png)
 
-![杏珠 · 对话页](docs/shot-chat-anju.png)
+## 截图
 
-![群像 · 空状态](docs/shot-empty-group.png)
+**昼**
+
+![昼 · 对话页](docs/chat-day.png)
+
+![昼 · 空状态](docs/empty-day.png)
+
+**夜**
+
+![夜 · 空状态](docs/empty-night.png)
+
+![夜 · 对话页](docs/chat-night.png)
+
+右下角的圆形按钮用于**手动切换昼 / 夜**（默认跟随系统，点击后记住选择）。
 
 ## 特性
 
