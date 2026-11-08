@@ -4,9 +4,11 @@
 
 昼 / 夜双主题，六位角色按会话随机分配并固定；消息头像、工具贴纸、完成卡、侧栏品牌位、空状态标题全部重绘。
 
-![空状态](docs/shot-hero.png)
+![恵凪 · 空状态](docs/shot-hero-ena.png)
 
-![对话页](docs/shot-chat.png)
+![杏珠 · 对话页](docs/shot-chat-anju.png)
+
+![群像 · 空状态](docs/shot-empty-group.png)
 
 ## 特性
 
