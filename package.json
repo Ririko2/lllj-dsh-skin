@@ -1,6 +1,6 @@
 {
   "name": "dsh-skin-lllj",
-  "version": "0.9.7",
+  "version": "0.9.9",
   "description": "LimeLight Lemonade Jam day/night skin for DeepSeek Harness",
   "type": "module",
   "main": "lib/index.js",
